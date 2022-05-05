@@ -2,8 +2,9 @@ Python quizz game (True or False) using classes OOP
 
 Questions imported from https://opentdb.com/
 
-Can import additional questions from https://opentdb.com/api_config.php with the bellow options:
-Once selected:
+Can import additional questions from https://opentdb.com/api_config.php with the bellow options.
+
+
 1. Generate API URL
 2. Access API URL
 3. Copy data from URL into data.py file
